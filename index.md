@@ -11,3 +11,9 @@
 ###### This is an h6
 
 ![Nyantocat](https://octodex.github.com/nyantocat/)
+
+```javascript
+function sum(a, b) {
+  return a + b;
+}
+```
